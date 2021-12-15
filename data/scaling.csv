@@ -1,0 +1,297 @@
+Origin,Destination,rescaling
+austria,belgium,1.608988764
+austria,bosnia and herzegovina,1.608813236
+austria,croatia,1.609404367
+austria,czechia,2.379044884
+austria,denmark,1.608787572
+austria,france,1.609186983
+austria,germany,2.139654624
+austria,hungary,2.734838791
+austria,italy,5.64263863
+austria,netherlands,1.609071545
+austria,poland,1.609162393
+austria,romania,1.609044101
+austria,serbia,1.609478207
+austria,slovakia,4.687617521
+austria,slovenia,2.803277474
+austria,sweden,1.609065156
+austria,switzerland,5.685926039
+austria,united kingdom,1.610098177
+belgium,austria,1.391802153
+belgium,france,1.856886239
+belgium,germany,2.019308826
+belgium,italy,1.397722912
+belgium,luxembourg,3.514504028
+belgium,netherlands,1.955104686
+belgium,poland,1.392269001
+belgium,portugal,1.391551584
+belgium,romania,1.391413876
+belgium,serbia,1.391199735
+belgium,spain,1.392246715
+belgium,switzerland,1.396244131
+belgium,united kingdom,1.821298311
+bosnia and herzegovina,austria,2.408105404
+bosnia and herzegovina,croatia,3.589923918
+bosnia and herzegovina,germany,2.407838334
+bosnia and herzegovina,italy,2.407407407
+bosnia and herzegovina,serbia,5.733257299
+bosnia and herzegovina,slovenia,2.407534427
+bulgaria,germany,2.570401233
+bulgaria,greece,2.967734813
+bulgaria,romania,10.20638534
+bulgaria,serbia,6.188451821
+bulgaria,united kingdom,2.560440994
+croatia,austria,1.038792102
+croatia,bosnia and herzegovina,1.828824541
+croatia,germany,1.051139935
+croatia,italy,5.940022246
+croatia,serbia,5.291262926
+croatia,slovenia,2.599709669
+czechia,austria,2.830233717
+czechia,france,2.06233578
+czechia,germany,3.310276351
+czechia,hungary,1.875983375
+czechia,italy,1.875882034
+czechia,netherlands,2.120194589
+czechia,poland,6.571407149
+czechia,romania,1.877664504
+czechia,slovakia,3.884172772
+czechia,united kingdom,1.876100424
+denmark,austria,3.187449976
+denmark,france,3.187043912
+denmark,germany,4.029383522
+denmark,netherlands,3.485721599
+denmark,norway,3.409250954
+denmark,poland,5.180252994
+denmark,spain,3.18745517
+denmark,sweden,3.764580437
+denmark,united kingdom,4.384670268
+estonia,finland,2.492116049
+estonia,sweden,6.096563011
+finland,estonia,5.593723169
+finland,germany,5.265426053
+finland,spain,5.266004486
+finland,sweden,6.766538095
+finland,united kingdom,5.265728477
+france,austria,3.119824945
+france,belgium,3.583406653
+france,czechia,3.304434031
+france,denmark,3.11535992
+france,germany,5.195724535
+france,hungary,3.114253136
+france,ireland,3.113497858
+france,italy,4.499715689
+france,luxembourg,5.450555088
+france,netherlands,3.114543325
+france,poland,3.117674837
+france,portugal,3.117225478
+france,romania,3.115559187
+france,spain,3.544734885
+france,sweden,3.11557377
+france,switzerland,4.441335728
+france,united kingdom,3.875968006
+germany,austria,3.648526838
+germany,belgium,3.721601846
+germany,bosnia and herzegovina,3.114782263
+germany,bulgaria,3.11529644
+germany,croatia,3.114938948
+germany,czechia,4.30411939
+germany,denmark,3.948643818
+germany,finland,3.115384615
+germany,france,5.091353888
+germany,greece,3.114865178
+germany,hungary,3.115337298
+germany,ireland,3.115044248
+germany,italy,3.3165161
+germany,lithuania,3.114554974
+germany,luxembourg,7.001526845
+germany,netherlands,3.720385525
+germany,norway,3.115460345
+germany,poland,4.929344031
+germany,portugal,3.115315893
+germany,romania,3.115298033
+germany,serbia,3.114830965
+germany,slovakia,3.115050938
+germany,slovenia,3.114925557
+germany,spain,3.115290167
+germany,sweden,3.895659469
+germany,switzerland,4.489352991
+germany,united kingdom,3.36724902
+greece,bulgaria,8.830306675
+greece,germany,8.650385485
+greece,italy,8.626175198
+greece,united kingdom,8.627884516
+hungary,austria,2.944511767
+hungary,czechia,1.564348282
+hungary,france,1.563168702
+hungary,germany,1.570818652
+hungary,italy,1.563316752
+hungary,poland,1.563758726
+hungary,romania,2.793811587
+hungary,serbia,4.008368757
+hungary,slovakia,8.245501052
+hungary,united kingdom,1.564750523
+iceland,united kingdom,8.786508582
+ireland,france,3.316366484
+ireland,germany,3.324687355
+ireland,netherlands,3.319709355
+ireland,spain,3.316450415
+ireland,united kingdom,3.623688216
+italy,austria,8.67799795
+italy,belgium,6.479209863
+italy,bosnia and herzegovina,6.475024486
+italy,croatia,8.90248203
+italy,czechia,6.476715686
+italy,france,7.607246949
+italy,germany,6.63516368
+italy,greece,6.475122635
+italy,hungary,6.476177866
+italy,netherlands,6.478285606
+italy,poland,6.475887893
+italy,portugal,6.475809036
+italy,romania,6.486643358
+italy,slovenia,7.009945446
+italy,spain,6.476657269
+italy,switzerland,8.974275005
+italy,united kingdom,6.477580355
+lithuania,germany,3.215650591
+lithuania,poland,3.522742464
+lithuania,united kingdom,3.216698492
+luxembourg,belgium,4.111335878
+luxembourg,france,5.368212292
+luxembourg,germany,7.210637909
+netherlands,austria,2.209285319
+netherlands,belgium,2.625789939
+netherlands,czechia,2.354357487
+netherlands,denmark,2.42482441
+netherlands,france,2.20721823
+netherlands,germany,2.664123511
+netherlands,ireland,2.206478676
+netherlands,italy,2.207600256
+netherlands,norway,2.208163265
+netherlands,poland,2.206844791
+netherlands,portugal,2.207325049
+netherlands,romania,2.206803939
+netherlands,spain,2.206659428
+netherlands,sweden,2.209115282
+netherlands,switzerland,2.219987429
+netherlands,united kingdom,2.32263883
+norway,denmark,1.335189892
+norway,germany,8.067786339
+norway,netherlands,8.070609812
+norway,poland,8.070890725
+norway,spain,8.070697884
+norway,sweden,0.896372616
+norway,united kingdom,8.06958261
+poland,austria,2.663161668
+poland,belgium,2.666044673
+poland,czechia,6.770571942
+poland,denmark,5.178808915
+poland,france,2.661435777
+poland,germany,4.588221501
+poland,hungary,2.661687961
+poland,italy,2.661603103
+poland,lithuania,3.151099956
+poland,netherlands,2.665475659
+poland,norway,2.670764793
+poland,slovakia,11.54121306
+poland,spain,2.661110284
+poland,sweden,2.663313887
+poland,united kingdom,2.661967283
+portugal,belgium,4.979284369
+portugal,france,4.978256897
+portugal,germany,4.982008233
+portugal,italy,4.971149578
+portugal,netherlands,4.972735535
+portugal,spain,6.217826714
+portugal,switzerland,4.997841416
+portugal,united kingdom,4.973296685
+romania,austria,1.778432365
+romania,belgium,1.81935916
+romania,bulgaria,10.07539321
+romania,czechia,1.770192308
+romania,france,1.777215423
+romania,germany,1.814778139
+romania,hungary,3.015548017
+romania,italy,1.898885567
+romania,netherlands,1.773221757
+romania,serbia,8.688316877
+romania,spain,1.765687525
+romania,united kingdom,1.771917679
+serbia,austria,1.870724533
+serbia,belgium,1.829310872
+serbia,bosnia and herzegovina,3.803754493
+serbia,bulgaria,6.584641197
+serbia,croatia,5.266531605
+serbia,germany,1.844546554
+serbia,hungary,4.361017238
+serbia,romania,8.053904362
+serbia,slovenia,1.840094525
+slovakia,austria,4.819651551
+slovakia,czechia,3.741144567
+slovakia,germany,0.632289082
+slovakia,hungary,8.063299425
+slovakia,poland,11.14793213
+slovenia,austria,2.573779451
+slovenia,bosnia and herzegovina,0.525306122
+slovenia,croatia,2.439852542
+slovenia,germany,0.531285918
+slovenia,italy,1.498767203
+slovenia,serbia,0.526408451
+spain,belgium,4.938587178
+spain,denmark,4.930667801
+spain,finland,4.9309629
+spain,france,5.288245209
+spain,germany,4.938372588
+spain,ireland,4.929259543
+spain,italy,4.93677963
+spain,netherlands,4.932341582
+spain,norway,4.932299341
+spain,poland,4.929579966
+spain,portugal,6.54700555
+spain,romania,4.93924737
+spain,sweden,4.931194986
+spain,switzerland,4.952243632
+spain,united kingdom,4.929819638
+sweden,austria,7.463424357
+sweden,denmark,1.392077929
+sweden,estonia,6.285111767
+sweden,finland,3.766975779
+sweden,france,7.471081488
+sweden,germany,1.899104173
+sweden,netherlands,7.469407115
+sweden,norway,0.570907665
+sweden,poland,7.471904454
+sweden,spain,7.471970511
+sweden,united kingdom,7.462006307
+switzerland,austria,6.152134795
+switzerland,belgium,3.90881688
+switzerland,france,5.007981871
+switzerland,germany,5.053772229
+switzerland,italy,6.18488357
+switzerland,netherlands,3.908862643
+switzerland,portugal,3.909372579
+switzerland,spain,3.909040075
+switzerland,united kingdom,3.909544663
+united kingdom,austria,4.486287019
+united kingdom,belgium,4.822790055
+united kingdom,bulgaria,4.486014109
+united kingdom,czechia,4.485723134
+united kingdom,denmark,5.54408993
+united kingdom,finland,4.48716707
+united kingdom,france,5.123012734
+united kingdom,germany,4.695277557
+united kingdom,greece,4.485402022
+united kingdom,hungary,4.485809067
+united kingdom,iceland,4.484577059
+united kingdom,ireland,4.867621791
+united kingdom,italy,4.486468873
+united kingdom,lithuania,4.484330484
+united kingdom,netherlands,4.620307256
+united kingdom,norway,4.487029289
+united kingdom,poland,4.485816648
+united kingdom,portugal,4.4855529
+united kingdom,romania,4.485498251
+united kingdom,spain,4.485058282
+united kingdom,sweden,4.486986347
+united kingdom,switzerland,4.489012209
